@@ -1,1 +1,2 @@
 # SmartCreditCalculator
+Hardware Program
